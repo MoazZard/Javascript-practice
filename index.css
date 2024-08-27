@@ -1,13 +1,9 @@
 body{
-    background-color: blue;
+    margin: 0px;
 }
-h1{
-    font-family: verdana, arial;
-    color: aliceblue;
-}
-#p1{
-    color: red;
-}
-#p2{
-    color: aliceblue;
+.box{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 50px;
 }
