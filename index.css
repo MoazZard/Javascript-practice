@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-family: verdana, arial;
+    color: aliceblue;
+}
+#p1{
+    color: red;
+}
+#p2{
+    color: aliceblue;
+}
