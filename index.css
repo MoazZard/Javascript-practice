@@ -1,9 +1,11 @@
-body{
-    margin: 0px;
+div{
+    background-color: aliceblue;
+    display: inline;
 }
-.box{
-    border: 5px solid;
-    width: 250px;
-    height: 250px;
-    font-size: 50px;
+span{
+    background-color: aqua;
+    display: block;
+}
+div > p{ 
+    font-size: 10px;
 }
